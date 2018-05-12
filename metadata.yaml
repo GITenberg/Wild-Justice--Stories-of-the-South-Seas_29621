@@ -1,0 +1,36 @@
+_repo: Wild-Justice--Stories-of-the-South-Seas_29621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osbourne, Lloyd
+    aliases:
+    - Osborne, Lloyd
+    - Osbourne, Samuel Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: ''
+gutenberg_issued: '2009-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29621'
+  lccn: '21019482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+- !lcsh 'Oceania -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: The renegade -- The security of the high seas -- Forty years between
+  -- O's head -- Professor No No -- Captain Elijah Coe -- Mr. Bob -- Old Dibs -- The
+  labor captain -- A son of empire -- Cloud of butterflies -- Ben.
+title: 'Wild Justice: Stories of the South Seas'
+url: http://www.gutenberg.org/ebooks/29621
